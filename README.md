@@ -47,3 +47,14 @@ https://open.kakao.com/o/shEzzAZf
 신규구매자 분들을 위한 이벤트이고<br>
 1월 7일 종료가 된다고 하니 서둘러서 받아가시기<br>
 바랍니다~~!
+
+
+## 추천 할인 게임 링크 앱 리퍼럴 25%할인 혜택도 받아보세요!
+
+https://www.oculus.com/appreferrals/visule/2603836099654226/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral
+
+https://www.oculus.com/appreferrals/visule/6212696172191478/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral
+
+https://www.oculus.com/appreferrals/visule/909129545868758/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral
+
+https://www.oculus.com/appreferrals/visule/1180401875303371/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral
