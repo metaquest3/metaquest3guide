@@ -50,11 +50,16 @@ https://open.kakao.com/o/shEzzAZf
 
 
 ## 추천 할인 게임 링크 앱 리퍼럴 25%할인 혜택도 받아보세요!
-
+[Asgard's Wrath 2]
 https://www.oculus.com/appreferrals/visule/2603836099654226/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral
 
+[Les MILLS XR DANCE]
 https://www.oculus.com/appreferrals/visule/6212696172191478/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral
 
+[Lucky's Tale]
 https://www.oculus.com/appreferrals/visule/909129545868758/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral
 
+[Asgard's Wrath 1]
 https://www.oculus.com/appreferrals/visule/1180401875303371/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral
+
+등등~~ 원하시는게임 오픈채팅방에서 신청가능능
