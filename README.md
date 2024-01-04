@@ -16,10 +16,7 @@
 ## ❓ 기기를 먼저 켜시면 안돼요!
 휴대폰과 quest3가 같은 와이파이환경을 추천합니다.
 휴대폰 어플
-![1bun](https://github.com/metaquest3/metaquest3guide/assets/155597424/422be818-d177-46b1-8012-773338942587)
-
-
-![hp_oculus_seting](https://github.com/metaquest3/metaquest3guide/assets/155597424/95a5c496-7352-4f1b-8969-b50a4cf45dc7)
+![1bun](https://github.com/metaquest3/metaquest3guide/assets/155597424/422be818-d177-46b1-8012-773338942587){: width="50%" height="50%"}
 
 
 
@@ -35,13 +32,13 @@ https://www.meta.com/referrals/link/visule/
 메타퀘스크 어플 켜신후
 @ 설정 -> 결제수단 -> 크레딧 눌러서 확인해보시면
 
-![hp_oculus_seting](https://github.com/metaquest3/metaquest3guide/assets/155597424/95a5c496-7352-4f1b-8969-b50a4cf45dc7)
+![hp_oculus_seting](https://github.com/metaquest3/metaquest3guide/assets/155597424/95a5c496-7352-4f1b-8969-b50a4cf45dc7){: width="50%" height="50%"}
 
 
 크레딧 72000원이 들어오셨을 거에요
-![1credit](https://github.com/metaquest3/metaquest3guide/assets/155597424/5fcdc470-2d5b-45cd-9695-8ece5ef1c50e)
-![2befor_credit](https://github.com/metaquest3/metaquest3guide/assets/155597424/97b5ad2b-7c16-4c61-867e-d149841e7e70)
-![3credit_won](https://github.com/metaquest3/metaquest3guide/assets/155597424/afcc2650-784e-4728-a680-cb14d9815584)
+![1credit](https://github.com/metaquest3/metaquest3guide/assets/155597424/5fcdc470-2d5b-45cd-9695-8ece5ef1c50e){: width="50%" height="50%"}
+![2befor_credit](https://github.com/metaquest3/metaquest3guide/assets/155597424/97b5ad2b-7c16-4c61-867e-d149841e7e70){: width="50%" height="50%"}
+![3credit_won](https://github.com/metaquest3/metaquest3guide/assets/155597424/afcc2650-784e-4728-a680-cb14d9815584){: width="50%" height="50%"}
 정상적으로 크레딧 들어온 것 확인후 오픈채팅방 들어오셔서
 원하는 게임 말씀해주시면 즉시 보내드립니다!
 ​
