@@ -24,8 +24,8 @@ https://www.meta.com/referrals/link/visule/
 휴대폰과 메타퀘스트3 연동해주세요!
 ​
 ## 3. 튜토리얼과 연동을 모두 마치셨다면
-메타퀘스크 어플 켜신후
-@ 설정 -> 결제수단 -> 크레딧 눌러서 확인해보시면 <br/>
+메타퀘스트 어플 켜신후
+설정 -> 결제수단 -> 크레딧 눌러서 확인해보시면 <br/>
 
 <img src="https://github.com/metaquest3/metaquest3guide/assets/155597424/95a5c496-7352-4f1b-8969-b50a4cf45dc7"  width="30%" height="30%"/>
 
