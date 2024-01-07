@@ -18,8 +18,11 @@
 휴대폰 어플 <br/>
 <img src="https://github.com/metaquest3/metaquest3guide/assets/155597424/422be818-d177-46b1-8012-773338942587" width="30%" height="30%"/>
 <br>
-## 1. 회원가입을 하고 메타아이디만드신 다음 아래 링크 누르셔서 초대수락 받아주세요!
-​
+## 1. 회원가입을 하고 메타아이디만드신
+https://www.meta.com/kr/
+
+
+다음 아래 링크 누르셔서 초대수락 받아주세요!​
 https://www.meta.com/referrals/link/visule/
 ​
 ## 2. 초대 수락받으신 후 기기 전원켜시고
