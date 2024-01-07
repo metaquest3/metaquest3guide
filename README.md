@@ -21,7 +21,8 @@
 ## 1. 회원가입을 하고 메타아이디만드신
 https://www.meta.com/kr/
 
-
+ <br/>
+  <br/>
 다음 아래 링크 누르셔서 초대수락 받아주세요!​
 https://www.meta.com/referrals/link/visule/
 ​
